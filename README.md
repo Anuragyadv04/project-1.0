@@ -25,6 +25,7 @@ Dependencies:
 The project requires the following dependencies:
 - Python 3.x
 - Selenium library (can be installed using `pip install selenium`)
+  
 Note:
 - Web scraping may be against the terms of service of some websites. Ensure that you comply with the policies of the websites you scrape.
 - The provided code relies on the structure of the web pages of the e-commerce websites. Any changes to the page structure may cause the code to fail.
